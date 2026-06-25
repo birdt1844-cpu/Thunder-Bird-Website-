@@ -4,8 +4,12 @@ export default function Home() {
   return (
     <main>
       <Hero />
-      <div className="text-center py-10">
-        <p>Services coming live soon.</p>
+      <div 
+        className="text-center"
+      >
+        <p>
+          Services live soon.
+        </p>
       </div>
     </main>
   );
